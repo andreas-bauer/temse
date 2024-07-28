@@ -1,10 +1,10 @@
 ---
 title: "Teaching Empirical Research Methods in Software Engineering: An Editorial Introduction"
 authors:
-  - "danielmendez"
-  - "parisavgeriou"
-  - "marcoskalinowski"
-  - "naumanbinali"
+  - "daniel-mendez"
+  - "marcos-kalinowski"
+  - "nauman-bin-ali"
+  - "paris-avgeriou"
 description: "tbd"
 part: "part-1"
 type: "part-1"
@@ -14,6 +14,9 @@ tags:
   - "documents"
 weight: 4
 date: 2024-07-01
+showAuthor: false
+showAuthorsBadges: true 
+
 ---
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Conubia posuere nisl placerat magna dictum vehicula curae. Elementum vehicula mattis curabitur fermentum diam per montes. Amet curabitur nibh justo placerat praesent quisque semper. Nostra feugiat condimentum etiam lacus habitasse facilisis leo eleifend. Iaculis maximus tincidunt morbi ultrices mattis fusce. Eleifend dolor parturient eros, justo pretium gravida lectus.
