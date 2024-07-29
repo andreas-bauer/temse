@@ -1,8 +1,11 @@
 ---
 title: "Welcome to the official website of Handbook on Teaching Empirical Software Engineering! :tada:"
-description: "Materials for Handbook on Teaching Empirical Software Engineering"
+description: "Online material collection for Handbook on Teaching Empirical Software Engineering"
 showRecent: false
 ---
+
+Online material collection for Handbook on Teaching Empirical Software Engineering, edited by EDITORS (Daniel, Paris, Marcos, Naumann)
+
 
 {{< list title="Part 1: Editorial Introduction" cardView=false limit=99 where="Type" value="part-1">}}
 
