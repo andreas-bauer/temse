@@ -8,14 +8,14 @@ authors:
 description: "tbd"
 part: "part-1"
 type: "part-1"
-tags: 
+tags:
   - "slides"
   - "exams"
   - "documents"
 weight: 4
 date: 2024-07-01
 showAuthor: false
-showAuthorsBadges: true 
+showAuthorsBadges: true
 ---
 
 ## Lecture (240 minutes)
@@ -34,5 +34,6 @@ showAuthorsBadges: true
 
 {{< button href="materials/Seminar 90 minutes PhD level.pdf" target="_self" >}}Download .pdf{{< /button >}} &nbsp; {{< button href="materials/Seminar 90 minutes PhD level.pptx" target="_self" >}}Download .pptx{{< /button >}}
 
-
 ## LICENSE
+
+The material is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
