@@ -7,14 +7,14 @@ authors:
   - "paris-avgeriou"
 description: "tbd"
 type: "part-1"
-tags: 
+tags:
   - "slides"
   - "exams"
   - "documents"
 weight: 4
 date: 2024-07-01
 showAuthor: false
-showAuthorsBadges: true 
+showAuthorsBadges: true
 ---
 
 ## Fulltext
