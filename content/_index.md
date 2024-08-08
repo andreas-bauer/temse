@@ -4,7 +4,12 @@ description: "Online material collection for Handbook on Teaching Empirical Soft
 showRecent: false
 ---
 
-Online material collection for Handbook on Teaching Empirical Software Engineering, edited by EDITORS (Daniel, Paris, Marcos, Naumann)
+{{< figure
+    src="/images/cover.png"
+    alt="book cover"
+    nozoom=true
+    href="https://link.springer.com/book/9783031717680"
+>}}
 
 
 {{< list title="Part 1: Editorial Introduction" cardView=false limit=99 where="Type" value="part-1">}}
@@ -20,3 +25,4 @@ Online material collection for Handbook on Teaching Empirical Software Engineeri
 ---
 
 {{< list title="Part 4: Teaching Empirical Software Engineering Research Methods" cardView=false limit=99 where="Type" value="part-4" >}}
+
