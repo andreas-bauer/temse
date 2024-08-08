@@ -9,8 +9,6 @@ description: "tbd"
 type: "part-1"
 tags:
   - "slides"
-  - "exams"
-  - "documents"
 weight: 4
 date: 2024-07-01
 showAuthor: false
