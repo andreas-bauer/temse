@@ -11,7 +11,6 @@ showRecent: false
     href="https://link.springer.com/book/9783031717680"
 >}}
 
-
 {{< list title="Part 1: Editorial Introduction" cardView=false limit=99 where="Type" value="part-1">}}
 
 ---
