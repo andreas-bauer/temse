@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Handbook on Teaching Empirical Software Engineering"
+title = "Online material collection for Handbook on Teaching Empirical Software Engineering"
 
 [params]
   displayName = "EN"
