@@ -1,23 +1,21 @@
 ---
 title: "Teaching Empirical Research Methods in Software Engineering: An Editorial Introduction"
+description: 'Online material for the chapter "Teaching Empirical Research Methods in Software Engineering: An Editorial Introduction"'
 authors:
-  - "daniel-mendez"
-  - "marcos-kalinowski"
-  - "nauman-bin-ali"
-  - "paris-avgeriou"
-description: "tbd"
+  - Daniel Mendez
+  - Marcos Kalinowski
+  - Nauman bin Ali
+  - Paris Avgeriou
 type: "part-1"
 tags:
   - "slides"
 weight: 4
 date: 2024-07-01
-showAuthor: false
-showAuthorsBadges: true
 ---
 
 ## Fulltext
 
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book">}}Springer Link{{< /button >}} &nbsp; {{< button href="https://arxiv.org" target="_self" >}}arXiv{{< /button >}}
+{{< button href="https://link.springer.com/book/9783031717680#about-this-book">}}Springer Link{{< /button >}}
 
 ## Materials
 
@@ -37,12 +35,12 @@ showAuthorsBadges: true
 
 {{< button href="materials/Seminar 90 minutes PhD level.pdf" target="_self" >}}Download .pdf{{< /button >}} &nbsp; {{< button href="materials/Seminar 90 minutes PhD level.pptx" target="_self" >}}Download .pptx{{< /button >}}
 
-## Licensing
+### Licensing
 
 {{< figure
     src="/images/by-sa.svg"
     alt="licensed under CC BY-SA 4.0"
-    caption="Fulltext and material licensed under CC BY-SA 4.0"
+    caption="Material licensed under CC BY-SA 4.0"
     nozoom=true
     href="https://creativecommons.org/licenses/by-sa/4.0/deed.de"
 >}}

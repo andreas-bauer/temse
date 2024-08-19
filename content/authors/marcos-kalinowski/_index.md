@@ -1,3 +1,0 @@
----
-title: "Marcos Kalinowski"
----

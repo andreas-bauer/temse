@@ -2,6 +2,8 @@
 title: "About the book"
 description: "More about the Handbook on Teaching Empirical Software Engineering"
 showPagination: false
+_build:
+  list: never
 ---
 
 {{< figure

@@ -1,8 +1,9 @@
 ---
 title: "Welcome to the official website of Handbook on Teaching Empirical Software Engineering! :tada:"
 description: "Online material collection for Handbook on Teaching Empirical Software Engineering"
-showRecent: false
 ---
+
+## Online Materials
 
 {{< figure
     src="/images/cover.png"
@@ -24,4 +25,3 @@ showRecent: false
 ---
 
 {{< list title="Part 4: Teaching Empirical Software Engineering Research Methods" cardView=false limit=99 where="Type" value="part-4" >}}
-
