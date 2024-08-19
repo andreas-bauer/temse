@@ -3,7 +3,7 @@ title: "Teaching Simulation as a Research Method in Empirical Software Engineeri
 description: "tbd"
 authors:
     - Breno Bernard Nicolau de França
-    - Nauman Bin Ali
+    - Nauman bin Ali
     - Dietmar Pfahl
     - Valdemar Vicente Graciano Neto
 type: "part-4"
