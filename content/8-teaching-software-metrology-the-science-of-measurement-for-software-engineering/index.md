@@ -13,20 +13,20 @@ date: 2024-07-01
 weight: 8
 ---
 
-## Fulltext
+## Abstract
 
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book">}}
-Springer Link
+Abstract While the methodological rigor of computing research has improved considerably in the past two decades, quantitative software engineering research is hampered by immature measures and inattention to theory. Measurement—the principled assignment of numbers to phenomena—is intrinsically difficult because observation is predicated upon not only theoretical concepts but also the values and perspective of the research. Despite several previous attempts to raise awareness of more sophisticated approaches to measurement and the importance of quantitatively assessing reliability and validity, measurement issues continue to be widely ignored. The reasons are unknown, but differences in typical engineering and computer science graduate training programs (compared to psychology and management, for example) are involved. This chapter therefore reviews key concepts in the science of measurement and applies them to software engineering research. A series of exercises for applying important measurement concepts to the reader’s research are included, and a sample dataset for the reader to try some of the statistical procedures mentioned is provided.
+
+{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}
+Fulltext on Springer Link
 {{< /button >}}
 
 ## Materials
 
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_self" >}}
-Download .pdf
-{{< /button >}}
-&nbsp;
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_self" >}}
-Download .pptx
+## Replication Package
+
+{{< button href="materials/chapter_1.zip" target="_self" >}}
+Download .zip
 {{< /button >}}
 
 ### Licensing
