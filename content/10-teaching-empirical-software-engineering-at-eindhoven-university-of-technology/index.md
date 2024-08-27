@@ -81,7 +81,7 @@ The slides of (some) of the lectures.
 
 #### Sampling
 
-{{< button href="materials/slides/02-Sampling.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/slides/03-Sampling.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Interviews/Surveys
 
