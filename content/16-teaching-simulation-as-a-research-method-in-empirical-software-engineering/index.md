@@ -8,7 +8,8 @@ authors:
     - Valdemar Vicente Graciano Neto
 type: "part-4"
 tags:
-    - tbd
+    - slides
+    - artifact
 weight: 16
 ---
 
@@ -21,13 +22,15 @@ lation concepts and practice. For educators, it further provides learning object
 Springer Link
 {{< /button >}}
 
-## Materials (to be done)
+## Materials
 
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_blank" >}}Download .pdf{{< /button >}}
-&nbsp;
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_blank" >}}
-Download .pptx
-{{< /button >}}
+### Slides
+
+{{< button href="materials/slides.zip" target="_blank" >}}Download .zip{{< /button >}}
+
+### Models
+
+{{< button href="materials/models.zip" target="_blank" >}}Download .zip{{< /button >}}
 
 ### Licensing
 
