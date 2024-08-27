@@ -23,15 +23,15 @@ This chapter attempts to support educators in the first and most crucial step in
 
 ## Materials
 
-### PA2554 Syllabus
+### Syllabus with 7.5 ECTS
 
 {{< button href="materials/PA2554 - MSc RM course syllabus.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-### PA2592 Syllabus
+### Syllabus with 19 ECTS
 
 {{< button href="materials/PA2592 - Research Methods and Master Thesis in Software Engineering for Professionals.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-### PhD Course on Research Methods
+### Syllabus for Course at PhD level with 6 ECTS
 
 {{< button href="materials/PhD course on research methods syllabus.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
