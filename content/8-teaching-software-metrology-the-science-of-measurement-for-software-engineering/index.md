@@ -21,7 +21,7 @@ Abstract While the methodological rigor of computing research has improved consi
 
 ## Materials
 
-## Replication Package
+### Replication Package
 
 {{< button href="materials/chapter_1.zip" target="_blank" >}}Download .zip{{< /button >}}
 
