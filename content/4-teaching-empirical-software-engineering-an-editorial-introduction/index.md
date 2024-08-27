@@ -1,6 +1,6 @@
 ---
-title: "Teaching Empirical Research Methods in Software Engineering: An Editorial Introduction"
-description: 'Online material for the chapter "Teaching Empirical Research Methods in Software Engineering: An Editorial Introduction"'
+title: "Teaching Empirical Software Engineering: An Editorial Introduction"
+description: 'Online material for the chapter "Teaching Empirical Software Engineering: An Editorial Introduction"'
 authors:
   - Daniel Mendez
   - Marcos Kalinowski
