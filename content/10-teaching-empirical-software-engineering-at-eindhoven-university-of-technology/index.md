@@ -16,20 +16,17 @@ weight: 10
 
 In this chapter, we share an experience report of teaching a master course on empirical research methods at Eindhoven University of Technology in the Netherlands. The course is taught for ten weeks to a mix of students from different study programs and combines both practical assignments with a closed-book exam. We discuss the challenges of teaching a course on research methods and explain how we address these challenges in the course design. Additionally, we share our lessons learned and the challenges we encountered over several iterations of teaching the course.
 
-{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}
-Fulltext on Springer Link
-{{< /button >}}
+{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}}
+
 ## Materials
 
 The files in these folders accompany the book chapter "Teaching Empirical Methods at Eindhoven University of Technology". The book chapter gives an overview of Empirical Methods in Software Engineering, a master course taught to the computer science & engineering students of Eindhoven University of Technology in the Netherlands. Below an overview of all of the materials included in this supplement is given: 
 
 ### Syllabus
 
-The syllabus of the 2023/2024 edition as it was available to the students. It contains the lecture schedule, the requirements for each of the assignments, and an overview of the primary sources on which the course has been based. 
+The syllabus of the 2023/2024 edition as it was available to the students. It contains the lecture schedule, the requirements for each of the assignments, and an overview of the primary sources on which the course has been based.
 
-{{< button href="materials/syllabus.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/syllabus.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 ### Exams
 
@@ -46,89 +43,61 @@ Both the original exam (Exam) and the resit exam (Resit) for three academic year
 
 #### Exam 21/22
 
-{{< button href="materials/exams/21-Exam.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/exams/21-Exam.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Resit Exam 21/22
 
-{{< button href="materials/exams/21-Resit.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/exams/21-Resit.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Exam 22/23
 
-{{< button href="materials/exams/22-Exam.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/exams/22-Exam.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Resit Exam 22/23
 
-{{< button href="materials/exams/22-Resit.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/exams/22-Resit.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Exam 23/24
 
-{{< button href="materials/exams/23-Exam.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/exams/23-Exam.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Resit Exam 23/24
 
-{{< button href="materials/exams/23-Resit.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/exams/23-Resit.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 ### Slides
 
 The slides of (some) of the lectures.
 
-{{< alert >}}
-**Warning!** Unfortunately, the missing lecture slides cannot be shared publicly.
-{{< /alert >}}
+{{< alert >}}**Warning!** Unfortunately, the missing lecture slides cannot be shared publicly.{{< /alert >}}
 
 #### Introduction
 
-{{< button href="materials/slides/01-Introduction.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/slides/01-Introduction.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Research Questions and Strategies
 
-{{< button href="materials/slides/02-Research Questions and Strategies.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/slides/02-Research Questions and Strategies.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Sampling
 
-{{< button href="materials/slides/02-Sampling.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/slides/02-Sampling.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Interviews/Surveys
 
-{{< button href="materials/slides/0405-InterviewsSurveys.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/slides/0405-InterviewsSurveys.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Quantitative Analysis
 
-{{< button href="materials/slides/08-Quantitative analysis.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/slides/08-Quantitative analysis.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Inferring Demographics
 
-{{< button href="materials/slides/11-Inferring demographics.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/slides/11-Inferring demographics.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Threats
 
-{{< button href="materials/slides/12-Threats.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/slides/12-Threats.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 ### Licensing
 

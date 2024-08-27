@@ -7,10 +7,16 @@ authors:
     - Dietmar Pfahl
     - Valdemar Vicente Graciano Neto
 type: "part-4"
+tags:
+    - slides
+    - artifact
 weight: 16
 ---
 
-## Fulltext
+## Abstract
+
+The chapter supports educators and postgraduate students in understanding the role of simulation in software engineering research based on the authors’ experience. This way, it includes a background positioning simulation-based studies in software engineering research, the proposition of learning objectives for teaching simulation as a research method, and presents our experience when teaching simu-
+lation concepts and practice. For educators, it further provides learning objectives when teaching simulation, considering the current state of the art in software engineering research and the necessary guidance and recommended learning activities to achieve these objectives. For students, it drives the learning path for those interested in learning this method but had no opportunity to engage in an entire course on simulation in the context of empirical research.
 
 {{< button href="https://link.springer.com/book/9783031717680#about-this-book">}}
 Springer Link
@@ -18,9 +24,7 @@ Springer Link
 
 ## Materials
 
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_blank" >}}Download .pdf{{< /button >}}
 &nbsp;
 {{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_blank" >}}
 Download .pptx

@@ -14,120 +14,83 @@ weight: 11
 
 ## Abstract
 
-{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}
-Fulltext on Springer Link
-{{< /button >}}
+{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}}
+
 ## Materials
 
 ### Lecture Slides
 
 #### Introduction
 
-{{< button href="materials/lectures/[01 - A] Introduction.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[01 - A] Introduction.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Empirical Software Engineering
 
-{{< button href="materials/lectures/[01 - B] Empirical software engineering.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[01 - B] Empirical software engineering.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### The Experimental Process
 
-{{< button href="materials/lectures/[02 - A] The experimental process.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[02 - A] The experimental process.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Experiment Scoping
 
-{{< button href="materials/lectures/[02 - B] Experiment Scoping.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[02 - B] Experiment Scoping.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Design and Develop Green Software
 
-{{< button href="materials/lectures/[03] Design and Develop Green Software.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[03] Design and Develop Green Software.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Experiment Planning
 
-{{< button href="materials/lectures/[04 - A] Experiment planning.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[04 - A] Experiment planning.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Measurement Theory Basics
 
-{{< button href="materials/lectures/[04 - B] Measurement theory basics.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[04 - B] Measurement theory basics.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Experiment Design Basics
 
-{{< button href="materials/lectures/[05 - A] Experiment design - basics.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[05 - A] Experiment design - basics.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Experiment Design Advanced
 
-{{< button href="materials/lectures/[05 - B] Experiment design - advanced.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[05 - B] Experiment design - advanced.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Data Analysis
 
-{{< button href="materials/lectures/[06 - A] Data Analysis.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[06 - A] Data Analysis.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Hypothesis Testing
 
-{{< button href="materials/lectures/[06 - B] Hypothesis Testing.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[06 - B] Hypothesis Testing.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Statistical Tests and Effect Size
 
-{{< button href="materials/lectures/[06] Statistical tests and effect size.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[06] Statistical tests and effect size.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Experiment Validity
 
-{{< button href="materials/lectures/[08 - A] Experiment validity.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[08 - A] Experiment validity.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Experiment Reporting
 
-{{< button href="materials/lectures/[08 - B] Experiment reporting.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/[08 - B] Experiment reporting.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Lab
 
-{{< button href="materials/lectures/Lab_1.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/Lab_1.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Project Tracks
 
-{{< button href="materials/lectures/Project tracks.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/lectures/Project tracks.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 ### Instructions for Students
 
-{{< button href="materials/AssignmentsDivision.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/AssignmentsDivision.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 ### Expected Contributions
 
-{{< button href="materials/TeamProjectGuide.pdf" target="_blank" >}}
-Download .pdf
-{{< /button >}}
+{{< button href="materials/TeamProjectGuide.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 ## Recommended Readings
 

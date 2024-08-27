@@ -12,13 +12,15 @@ weight: 21
 date: 2024-07-01
 ---
 
-## Fulltext
+## Abstract
 
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book">}}Springer Link{{< /button >}}
+In this chapter, we provide advice on how to effectively teach survey research based on lessons learned from several international teaching experiences on the topic and from conducting large-scale surveys published at various scientific conferences and journals. First, we provide teachers with a potential syllabus for teaching survey research, including learning objectives, lectures, and examples of practical assignments. Thereafter, we provide actionable advice on how to teach the topics related to each learning objective, including survey design, sampling, data collection, statistical and qualitative analysis, threats to validity and reliability, and ethical considerations. The chapter is complemented by online teaching resources, including slides covering an entire course.
+
+{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}}
 
 ## Materials
 
-{{< button href="materials/Lecture 240 minutes MSc level.pdf" target="_blank" >}}Download .pdf{{< /button >}} &nbsp; {{< button href="materials/Lecture 240 minutes MSc level.pptx" target="_blank" >}}Download .pptx{{< /button >}}
+{{< button href="" target="_blank" >}}Download .pdf{{< /button >}} &nbsp; {{< button href="" target="_blank" >}}Download .pptx{{< /button >}}
 
 ### Licensing
 
