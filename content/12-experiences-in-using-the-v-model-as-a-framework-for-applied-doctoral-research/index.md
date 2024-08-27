@@ -7,23 +7,33 @@ authors:
     - Frank Elberzhager
     - Dieter Rombach
 type: "part-3"
+tags:
+    - slides
 weight: 12
 ---
 
-## Fulltext
+## Abstract
 
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book">}}
-Springer Link
+The pervasive role played by software in virtually all industries has fostered ever-increasing development of applied research in software engineering. In this chapter, we contribute our experience in using the V-Model as a framework for teaching how to conduct applied research in empirical software engineering. The foundational idea of using the V-Model is presented, and guidance for using it to frame the research is provided. Furthermore, we show how the framework has been instantiated throughout nearly two decades of PhD theses done at the University of Kaiserslautern (RPTU Kaiserslautern) in partnership with Fraunhofer IESE, including the most frequent usage patterns, how the different empirical methods fit into the framework, and the lessons we have learned from this experience.
+
+{{< button href="https://link.springer.com/book/9783031717680">}}
+Fulltext on Springer Link
 {{< /button >}}
 
 ## Materials
 
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_self" >}}
+Additional slides discussing the usage of the V-Model as a framework for applied doctoral research
+
+### Slide Deck 1
+
+{{< button href="materials/EMSE2024_Empirical-V-model.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
-&nbsp;
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_self" >}}
-Download .pptx
+
+### Slide Deck 2
+
+{{< button href="materials/TUK2002_Dreieck-Empirie.pdf" target="_blank" >}}
+Download .pdf
 {{< /button >}}
 
 ### Licensing
