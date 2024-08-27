@@ -19,4 +19,4 @@ To this end, the book is organized into four major parts. In the first part, the
 
 The book mainly targets three different audiences: (1) educators teaching empirical software engineering to undergraduate, postgraduate or doctoral students, (2) professional trainers teaching the basic concepts of empirical software engineering to software professionals, and (3) students and trainees attending such courses.
 
-Find more information on [Springer Online](https://link.springer.com/book/9783031717680#about-this-book).
+Find more information on [the publisher website](https://link.springer.com/book/9783031717680#about-this-book).
