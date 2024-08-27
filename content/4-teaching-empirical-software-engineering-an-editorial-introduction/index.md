@@ -3,9 +3,9 @@ title: "Teaching Empirical Software Engineering: An Editorial Introduction"
 description: 'Online material for the chapter "Teaching Empirical Software Engineering: An Editorial Introduction"'
 authors:
   - Daniel Mendez
+  - Paris Avgeriou
   - Marcos Kalinowski
   - Nauman bin Ali
-  - Paris Avgeriou
 type: "part-1"
 tags:
   - "slides"
