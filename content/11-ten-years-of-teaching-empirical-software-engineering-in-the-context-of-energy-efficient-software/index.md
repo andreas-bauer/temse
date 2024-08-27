@@ -1,6 +1,6 @@
 ---
 title: "Ten Years of Teaching Empirical Software Engineering in the context of Energy-efficient Software"
-description: "tbd"
+description: 'Online material for the chapter "Ten Years of Teaching Empirical Software Engineering in the context of Energy-efficient Software"'
 authors:
     - Ivano Malavolta
     - Vincenzo Stoico

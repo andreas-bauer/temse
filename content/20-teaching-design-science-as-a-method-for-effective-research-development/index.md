@@ -1,6 +1,6 @@
 ---
 title: "Teaching Design Science as a Method for Effective Research Development"
-description: "tbd"
+description: 'Online material for the chapter "Teaching Design Science as a Method for Effective Research Development"'
 authors:
     - Oscar Pastor
     - Mmatshuene Anna Segooa

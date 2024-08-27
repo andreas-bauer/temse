@@ -1,6 +1,6 @@
 ---
 title: "Experiences in Using the V-Model as a Framework for Applied Doctoral Research"
-description: "tbd"
+description: 'Online material for the chapter "Experiences in Using the V-Model as a Framework for Applied Doctoral Research"'
 authors:
     - Rodrigo Falcão
     - Andreas Jedlitschka

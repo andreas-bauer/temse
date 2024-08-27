@@ -1,6 +1,6 @@
 ---
 title: "Teaching Survey Research in Software Engineering"
-description: 'Online material for the chapter "Designing a Syllabus for a Course in Empirical Software Engineering"'
+description: 'Online material for the chapter "Teaching Survey Research in Software Engineering"'
 authors:
   - Marcos Kalinowski
   - Allysson Allex Araújo

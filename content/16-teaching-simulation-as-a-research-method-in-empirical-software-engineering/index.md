@@ -1,6 +1,6 @@
 ---
 title: "Teaching Simulation as a Research Method in Empirical Software Engineering"
-description: "tbd"
+description: 'Online material for the chapter "Teaching Simulation as a Research Method in Empirical Software Engineering"'
 authors:
     - Breno Bernard Nicolau de França
     - Nauman bin Ali
