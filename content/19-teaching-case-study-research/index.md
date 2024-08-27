@@ -7,6 +7,7 @@ type: "part-4"
 tags:
     - slides
     - examples
+    - artifact
 weight: 19
 ---
 

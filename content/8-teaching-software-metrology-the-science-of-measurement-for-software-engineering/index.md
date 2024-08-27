@@ -8,7 +8,7 @@ authors:
   - Bimpe Ayoola
 type: "part-2"
 tags:
-  - "slides"
+  - "artifact"
 date: 2024-07-01
 weight: 8
 ---

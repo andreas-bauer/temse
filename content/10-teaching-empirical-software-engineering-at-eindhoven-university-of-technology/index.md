@@ -20,7 +20,7 @@ In this chapter, we share an experience report of teaching a master course on em
 
 ## Materials
 
-The files in these folders accompany the book chapter "Teaching Empirical Methods at Eindhoven University of Technology". The book chapter gives an overview of Empirical Methods in Software Engineering, a master course taught to the computer science & engineering students of Eindhoven University of Technology in the Netherlands. Below an overview of all of the materials included in this supplement is given: 
+The files in these folders accompany the book chapter "Teaching Empirical Methods at Eindhoven University of Technology". The book chapter gives an overview of Empirical Methods in Software Engineering, a master course taught to the computer science & engineering students of Eindhoven University of Technology in the Netherlands. Below an overview of all of the materials included in this supplement is given:
 
 ### Syllabus
 
