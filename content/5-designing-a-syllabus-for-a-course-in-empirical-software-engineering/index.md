@@ -27,19 +27,19 @@ Fulltext on Springer Link
 
 ### PA2554 Syllabus
 
-{{< button href="materials/PA2554 - MSc RM course syllabus.pdf" target="_self" >}}
+{{< button href="materials/PA2554 - MSc RM course syllabus.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 ### PA2592 Syllabus
 
-{{< button href="materials/PA2592 - Research Methods and Master Thesis in Software Engineering for Professionals.pdf" target="_self" >}}
+{{< button href="materials/PA2592 - Research Methods and Master Thesis in Software Engineering for Professionals.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 ### PhD Course on Research Methods
 
-{{< button href="materials/PhD course on research methods syllabus.pdf" target="_self" >}}
+{{< button href="materials/PhD course on research methods syllabus.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 

@@ -28,7 +28,7 @@ The files in these folders accompany the book chapter "Teaching Empirical Method
 
 The syllabus of the 2023/2024 edition as it was available to the students. It contains the lecture schedule, the requirements for each of the assignments, and an overview of the primary sources on which the course has been based. 
 
-{{< button href="materials/syllabus.pdf" target="_self" >}}
+{{< button href="materials/syllabus.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
@@ -47,37 +47,37 @@ Both the original exam (Exam) and the resit exam (Resit) for three academic year
 
 #### Exam 21/22
 
-{{< button href="materials/exams/21-Exam.pdf" target="_self" >}}
+{{< button href="materials/exams/21-Exam.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 #### Resit Exam 21/22
 
-{{< button href="materials/exams/21-Resit.pdf" target="_self" >}}
+{{< button href="materials/exams/21-Resit.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 #### Exam 22/23
 
-{{< button href="materials/exams/22-Exam.pdf" target="_self" >}}
+{{< button href="materials/exams/22-Exam.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 #### Resit Exam 22/23
 
-{{< button href="materials/exams/22-Resit.pdf" target="_self" >}}
+{{< button href="materials/exams/22-Resit.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 #### Exam 23/24
 
-{{< button href="materials/exams/23-Exam.pdf" target="_self" >}}
+{{< button href="materials/exams/23-Exam.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 #### Resit Exam 23/24
 
-{{< button href="materials/exams/23-Resit.pdf" target="_self" >}}
+{{< button href="materials/exams/23-Resit.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
@@ -91,43 +91,43 @@ The slides of (some) of the lectures.
 
 #### Introduction
 
-{{< button href="materials/slides/01-Introduction.pdf" target="_self" >}}
+{{< button href="materials/slides/01-Introduction.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 #### Research Questions and Strategies
 
-{{< button href="materials/slides/02-Research Questions and Strategies.pdf" target="_self" >}}
+{{< button href="materials/slides/02-Research Questions and Strategies.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 #### Sampling
 
-{{< button href="materials/slides/02-Sampling.pdf" target="_self" >}}
+{{< button href="materials/slides/02-Sampling.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 #### Interviews/Surveys
 
-{{< button href="materials/slides/0405-InterviewsSurveys.pdf" target="_self" >}}
+{{< button href="materials/slides/0405-InterviewsSurveys.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 #### Quantitative Analysis
 
-{{< button href="materials/slides/08-Quantitative analysis.pdf" target="_self" >}}
+{{< button href="materials/slides/08-Quantitative analysis.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 #### Inferring Demographics
 
-{{< button href="materials/slides/11-Inferring demographics.pdf" target="_self" >}}
+{{< button href="materials/slides/11-Inferring demographics.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 
 #### Threats
 
-{{< button href="materials/slides/12-Threats.pdf" target="_self" >}}
+{{< button href="materials/slides/12-Threats.pdf" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 

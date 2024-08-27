@@ -18,7 +18,7 @@ date: 2024-07-01
 
 ## Materials
 
-{{< button href="materials/Lecture 240 minutes MSc level.pdf" target="_self" >}}Download .pdf{{< /button >}} &nbsp; {{< button href="materials/Lecture 240 minutes MSc level.pptx" target="_self" >}}Download .pptx{{< /button >}}
+{{< button href="materials/Lecture 240 minutes MSc level.pdf" target="_blank" >}}Download .pdf{{< /button >}} &nbsp; {{< button href="materials/Lecture 240 minutes MSc level.pptx" target="_blank" >}}Download .pptx{{< /button >}}
 
 ### Licensing
 

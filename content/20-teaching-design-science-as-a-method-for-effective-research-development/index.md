@@ -17,11 +17,11 @@ Springer Link
 
 ## Materials
 
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_self" >}}
+{{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_blank" >}}
 Download .pdf
 {{< /button >}}
 &nbsp;
-{{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_self" >}}
+{{< button href="https://link.springer.com/book/9783031717680#about-this-book" target="_blank" >}}
 Download .pptx
 {{< /button >}}
 

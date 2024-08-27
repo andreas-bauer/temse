@@ -25,7 +25,7 @@ Fulltext on Springer Link
 
 ## Replication Package
 
-{{< button href="materials/chapter_1.zip" target="_self" >}}
+{{< button href="materials/chapter_1.zip" target="_blank" >}}
 Download .zip
 {{< /button >}}
 
