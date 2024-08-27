@@ -14,10 +14,9 @@ weight: 11
 
 ## Abstract
 
-{{< button href="https://link.springer.com/book/9783031717680">}}
+{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}
 Fulltext on Springer Link
 {{< /button >}}
-
 ## Materials
 
 ### Lecture Slides

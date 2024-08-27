@@ -14,10 +14,9 @@ weight: 19
 
 Case study research is an important research method in software engineering. Yet, it isn’t easy to teach in a classroom setting. This chapter shares a proven teaching approach, the most important content to teach, and a deeper dive into qualitative analysis.
 
-{{< button href="https://link.springer.com/book/9783031717680">}}
+{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}
 Fulltext on Springer Link
 {{< /button >}}
-
 ## Materials
 
 ### Case study slides (MSc level)
